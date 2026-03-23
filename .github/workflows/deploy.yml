@@ -1,0 +1,31 @@
+name: Encrypt & Deploy
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install Staticrypt
+        run: npm install -g staticrypt
+
+      - name: Encrypt HTML & assemble dist
+        env:
+          PASSWORD: ${{ secrets.STATICRYPT_PASSWORD }}
+        run: |
+          mkdir -p dist
+          # Encrypt the two entry points
+          staticrypt index.html viewer.html -p "$PASSWORD" -d dist --remember 7
+          # Copy everything else unchanged
+          cp -r assets data screenshots scripts dist/
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          force_orphan: true
