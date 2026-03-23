@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Flow Viewer — Competitor Research</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <h1>Competitor Research</h1>
+    <span class="tag">Onboarding Flows</span>
+  </header>
+
+  <main class="main">
+
+    <!-- Viewer header -->
+    <div class="viewer-header">
+      <a class="back-link" href="index.html">← All flows</a>
+      <h2 class="viewer-title" id="viewer-title">Loading…</h2>
+      <span class="viewer-meta" id="viewer-meta"></span>
+    </div>
+
+    <!-- Screenshot grid -->
+    <div class="screenshot-grid" id="screenshot-grid">
+      <p class="state-msg">Loading screenshots…</p>
+    </div>
+
+    <!-- Analysis section (hidden if no ANALYSIS.md) -->
+    <section class="analysis-section" id="analysis-section" style="display:none">
+      <h2>📋 Flow Analysis</h2>
+      <pre class="analysis-content" id="analysis-content"></pre>
+    </section>
+
+    <!-- Comments (Giscus — script injected after Giscus setup) -->
+    <section class="comments-section" id="comments-section">
+      <h2>💬 Team comments</h2>
+      <!-- GISCUS_PLACEHOLDER — replace the line below with the <script> tag from giscus.app -->
+      <p style="color: var(--muted); font-size: 13px;">
+        Comments are not configured yet. See setup instructions in the README.
+      </p>
+    </section>
+
+  </main>
+
+  <!-- Lightbox overlay -->
+  <div class="lightbox" id="lightbox" role="dialog" aria-modal="true">
+    <button class="lightbox-close" onclick="closeLightbox()" aria-label="Close">✕</button>
+    <div class="lightbox-img-wrap">
+      <img id="lb-img" src="" alt="">
+    </div>
+    <div class="lightbox-bar">
+      <button class="lb-btn" id="lb-prev" onclick="navigateLightbox(-1)" aria-label="Previous">‹</button>
+      <span class="lightbox-label" id="lb-label"></span>
+      <button class="lb-btn" id="lb-next" onclick="navigateLightbox(1)" aria-label="Next">›</button>
+    </div>
+  </div>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>

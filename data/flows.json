@@ -1,0 +1,22 @@
+[
+  {
+    "id": "liven-2026-03-20",
+    "competitor": "Liven",
+    "label": "Liven Onboarding",
+    "date": "2026-03-20",
+    "count": 69,
+    "dir": "liven-2026-03-20",
+    "thumbnail": "screenshots/liven-2026-03-20/01-homepage.png",
+    "hasAnalysis": true
+  },
+  {
+    "id": "liven-2026-03-20-6",
+    "competitor": "Liven",
+    "label": "Liven Onboarding (Run 2)",
+    "date": "2026-03-20",
+    "count": 72,
+    "dir": "liven-2026-03-20-6",
+    "thumbnail": "screenshots/liven-2026-03-20-6/01-homepage.png",
+    "hasAnalysis": false
+  }
+]
