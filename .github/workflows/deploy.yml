@@ -22,7 +22,7 @@ jobs:
         run: |
           mkdir -p dist
           # Encrypt the two entry points
-          staticrypt index.html viewer.html -p "$PASSWORD" -d dist --remember 7
+          staticrypt index.html viewer.html -p "$PASSWORD" -d dist --remember 7 --config .staticrypt.json
           # Copy everything else unchanged
           cp -r assets data screenshots scripts dist/
 
