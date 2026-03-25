@@ -38,5 +38,15 @@
     "dir": "simple-2026-03-25-11",
     "thumbnail": "screenshots/simple-2026-03-25-11/01-q01.png",
     "hasAnalysis": true
+  },
+  {
+    "id": "simple-2026-03-25-2",
+    "competitor": "Simple",
+    "label": "Simple.life — Intermittent Fasting (Male)",
+    "date": "2026-03-25",
+    "count": 59,
+    "dir": "simple-2026-03-25-2",
+    "thumbnail": "screenshots/simple-2026-03-25-2/01-q01.png",
+    "hasAnalysis": true
   }
 ]
