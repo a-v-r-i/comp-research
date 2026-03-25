@@ -28,5 +28,15 @@
     "dir": "noom-2026-03-24-9",
     "thumbnail": "screenshots/noom-2026-03-24-9/01-homepage.png",
     "hasAnalysis": true
+  },
+  {
+    "id": "simple-2026-03-25-11",
+    "competitor": "Simple",
+    "label": "Simple.life — Intermittent Fasting",
+    "date": "2026-03-25",
+    "count": 69,
+    "dir": "simple-2026-03-25-11",
+    "thumbnail": "screenshots/simple-2026-03-25-11/01-q01.png",
+    "hasAnalysis": true
   }
 ]
