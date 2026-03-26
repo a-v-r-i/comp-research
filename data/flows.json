@@ -48,5 +48,15 @@
     "dir": "simple-2026-03-25-2",
     "thumbnail": "screenshots/simple-2026-03-25-2/01-q01.png",
     "hasAnalysis": true
+  },
+  {
+    "id": "imprint-2026-03-26-8",
+    "competitor": "Imprint",
+    "label": "Imprint Buddhism Onboarding",
+    "date": "2026-03-26",
+    "count": 53,
+    "dir": "imprint-2026-03-26-8",
+    "thumbnail": "screenshots/imprint-2026-03-26-8/01-q01.png",
+    "hasAnalysis": true
   }
 ]
