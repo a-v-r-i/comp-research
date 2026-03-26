@@ -58,5 +58,15 @@
     "dir": "imprint-2026-03-26-8",
     "thumbnail": "screenshots/imprint-2026-03-26-8/01-q01.png",
     "hasAnalysis": true
+  },
+  {
+    "id": "imprint-2026-03-26",
+    "competitor": "imprint",
+    "label": "Philosophy (organic, 2026-03-26)",
+    "date": "2026-03",
+    "count": 39,
+    "dir": "imprint-2026-03-26",
+    "thumbnail": "screenshots/imprint-2026-03-26/01-q01.png",
+    "hasAnalysis": true
   }
 ]
