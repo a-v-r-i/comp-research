@@ -1,0 +1,332 @@
+{
+  "config": {
+    "name": "headway-self-growth",
+    "email": "alex+headway@example.com",
+    "userName": "Alex"
+  },
+  "date": "2026-03-27T19:00:20.133Z",
+  "screenshots": [
+    {
+      "step": 1,
+      "filename": "01-landing.png",
+      "url": "https://makeheadway.com/onboarding/self-growth/landing",
+      "title": "",
+      "counter": ""
+    },
+    {
+      "step": 2,
+      "filename": "02-q01.png",
+      "url": "https://makeheadway.com/onboarding/self-growth/social-proof",
+      "title": "",
+      "counter": ""
+    },
+    {
+      "step": 3,
+      "filename": "03-q02.png",
+      "url": "https://makeheadway.com/onboarding/self-growth/quiz",
+      "title": "",
+      "counter": ""
+    },
+    {
+      "step": 4,
+      "filename": "04-q03.png",
+      "url": "https://makeheadway.com/onboarding/self-growth/quiz",
+      "title": "",
+      "counter": ""
+    },
+    {
+      "step": 5,
+      "filename": "05-q04.png",
+      "url": "https://makeheadway.com/onboarding/self-growth/quiz",
+      "title": "",
+      "counter": ""
+    },
+    {
+      "step": 6,
+      "filename": "06-q05.png",
+      "url": "https://makeheadway.com/onboarding/self-growth/quiz",
+      "title": "Whose life principles, success, and personality inspire you the most?",
+      "counter": ""
+    },
+    {
+      "step": 7,
+      "filename": "07-q06.png",
+      "url": "https://makeheadway.com/onboarding/self-growth/quiz",
+      "title": "",
+      "counter": ""
+    },
+    {
+      "step": 8,
+      "filename": "08-q07.png",
+      "url": "https://makeheadway.com/onboarding/self-growth/quiz",
+      "title": "",
+      "counter": ""
+    },
+    {
+      "step": 9,
+      "filename": "09-q08.png",
+      "url": "https://makeheadway.com/onboarding/self-growth/quiz",
+      "title": "",
+      "counter": ""
+    },
+    {
+      "step": 10,
+      "filename": "10-q09.png",
+      "url": "https://makeheadway.com/onboarding/self-growth/quiz",
+      "title": "",
+      "counter": ""
+    },
+    {
+      "step": 11,
+      "filename": "11-q10.png",
+      "url": "https://makeheadway.com/onboarding/self-growth/quiz",
+      "title": "",
+      "counter": ""
+    },
+    {
+      "step": 12,
+      "filename": "12-q11.png",
+      "url": "https://makeheadway.com/onboarding/self-growth/quiz",
+      "title": "",
+      "counter": ""
+    },
+    {
+      "step": 13,
+      "filename": "13-q12.png",
+      "url": "https://makeheadway.com/onboarding/self-growth/quiz",
+      "title": "",
+      "counter": ""
+    },
+    {
+      "step": 14,
+      "filename": "14-q13.png",
+      "url": "https://makeheadway.com/onboarding/self-growth/quiz",
+      "title": "",
+      "counter": ""
+    },
+    {
+      "step": 15,
+      "filename": "15-q14.png",
+      "url": "https://makeheadway.com/onboarding/self-growth/quiz",
+      "title": "",
+      "counter": ""
+    },
+    {
+      "step": 16,
+      "filename": "16-q15.png",
+      "url": "https://makeheadway.com/onboarding/self-growth/quiz",
+      "title": "",
+      "counter": ""
+    },
+    {
+      "step": 17,
+      "filename": "17-q16.png",
+      "url": "https://makeheadway.com/onboarding/self-growth/quiz",
+      "title": "",
+      "counter": ""
+    },
+    {
+      "step": 18,
+      "filename": "18-q17.png",
+      "url": "https://makeheadway.com/onboarding/self-growth/quiz",
+      "title": "",
+      "counter": ""
+    },
+    {
+      "step": 19,
+      "filename": "19-q18.png",
+      "url": "https://makeheadway.com/onboarding/self-growth/quiz",
+      "title": "",
+      "counter": ""
+    },
+    {
+      "step": 20,
+      "filename": "20-q19.png",
+      "url": "https://makeheadway.com/onboarding/self-growth/quiz",
+      "title": "",
+      "counter": ""
+    },
+    {
+      "step": 21,
+      "filename": "21-q20.png",
+      "url": "https://makeheadway.com/onboarding/self-growth/quiz",
+      "title": "",
+      "counter": ""
+    },
+    {
+      "step": 22,
+      "filename": "22-q21.png",
+      "url": "https://makeheadway.com/onboarding/self-growth/quiz",
+      "title": "",
+      "counter": ""
+    },
+    {
+      "step": 23,
+      "filename": "23-q22.png",
+      "url": "https://makeheadway.com/onboarding/self-growth/quiz",
+      "title": "",
+      "counter": ""
+    },
+    {
+      "step": 24,
+      "filename": "24-q23.png",
+      "url": "https://makeheadway.com/onboarding/self-growth/quiz",
+      "title": "",
+      "counter": ""
+    },
+    {
+      "step": 25,
+      "filename": "25-q24.png",
+      "url": "https://makeheadway.com/onboarding/self-growth/quiz",
+      "title": "",
+      "counter": ""
+    },
+    {
+      "step": 26,
+      "filename": "26-q25.png",
+      "url": "https://makeheadway.com/onboarding/self-growth/quiz",
+      "title": "",
+      "counter": ""
+    },
+    {
+      "step": 27,
+      "filename": "27-q26.png",
+      "url": "https://makeheadway.com/onboarding/self-growth/quiz",
+      "title": "",
+      "counter": ""
+    },
+    {
+      "step": 28,
+      "filename": "28-q27.png",
+      "url": "https://makeheadway.com/onboarding/self-growth/quiz",
+      "title": "",
+      "counter": ""
+    },
+    {
+      "step": 29,
+      "filename": "29-q28.png",
+      "url": "https://makeheadway.com/onboarding/self-growth/quiz",
+      "title": "",
+      "counter": ""
+    },
+    {
+      "step": 30,
+      "filename": "30-q29.png",
+      "url": "https://makeheadway.com/onboarding/self-growth/quiz",
+      "title": "",
+      "counter": ""
+    },
+    {
+      "step": 31,
+      "filename": "31-q30.png",
+      "url": "https://makeheadway.com/onboarding/self-growth/quiz",
+      "title": "",
+      "counter": ""
+    },
+    {
+      "step": 32,
+      "filename": "32-q31.png",
+      "url": "https://makeheadway.com/onboarding/self-growth/quiz",
+      "title": "Do you have a specific reason for self-growth?",
+      "counter": ""
+    },
+    {
+      "step": 33,
+      "filename": "33-q32.png",
+      "url": "https://makeheadway.com/onboarding/self-growth/quiz",
+      "title": "",
+      "counter": ""
+    },
+    {
+      "step": 34,
+      "filename": "34-q33.png",
+      "url": "https://makeheadway.com/onboarding/self-growth/quiz",
+      "title": "",
+      "counter": ""
+    },
+    {
+      "step": 35,
+      "filename": "35-q34.png",
+      "url": "https://makeheadway.com/onboarding/self-growth/quiz",
+      "title": "",
+      "counter": ""
+    },
+    {
+      "step": 36,
+      "filename": "36-unknown-35.png",
+      "url": "https://makeheadway.com/onboarding/self-growth/quiz",
+      "title": "",
+      "counter": ""
+    },
+    {
+      "step": 37,
+      "filename": "37-q36.png",
+      "url": "https://makeheadway.com/onboarding/self-growth/quiz",
+      "title": "",
+      "counter": ""
+    },
+    {
+      "step": 38,
+      "filename": "38-unknown-37.png",
+      "url": "https://makeheadway.com/onboarding/self-growth/quiz",
+      "title": "",
+      "counter": ""
+    },
+    {
+      "step": 39,
+      "filename": "39-q38.png",
+      "url": "https://makeheadway.com/onboarding/self-growth/quiz",
+      "title": "",
+      "counter": ""
+    },
+    {
+      "step": 40,
+      "filename": "40-unknown-39.png",
+      "url": "https://makeheadway.com/onboarding/self-growth/quiz",
+      "title": "",
+      "counter": ""
+    },
+    {
+      "step": 41,
+      "filename": "41-q40.png",
+      "url": "https://makeheadway.com/onboarding/self-growth/quiz",
+      "title": "Achieve your goals with Headway",
+      "counter": ""
+    },
+    {
+      "step": 42,
+      "filename": "42-email-capture.png",
+      "url": "https://makeheadway.com/onboarding/self-growth/quiz",
+      "title": "Achieve your goals with Headway",
+      "counter": ""
+    },
+    {
+      "step": 46,
+      "filename": "46-email-capture.png",
+      "url": "https://makeheadway.com/onboarding/self-growth/quiz",
+      "title": "Achieve your goals with Headway",
+      "counter": ""
+    },
+    {
+      "step": 50,
+      "filename": "50-q47.png",
+      "url": "https://makeheadway.com/onboarding/self-growth/tariffs",
+      "title": "",
+      "counter": ""
+    },
+    {
+      "step": 51,
+      "filename": "51-q48.png",
+      "url": "https://makeheadway.com/onboarding/self-growth/tariffs",
+      "title": "",
+      "counter": ""
+    },
+    {
+      "step": 52,
+      "filename": "52-PAYMENT-DETAILS-credit-card.png",
+      "url": "https://makeheadway.com/onboarding/self-growth/tariffs",
+      "title": "",
+      "counter": ""
+    }
+  ]
+}
