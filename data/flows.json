@@ -68,5 +68,15 @@
     "dir": "imprint-2026-03-26",
     "thumbnail": "screenshots/imprint-2026-03-26/01-q01.png",
     "hasAnalysis": true
+  },
+  {
+    "id": "headway-2026-03-27",
+    "competitor": "Headway",
+    "label": "Headway Self-Growth Onboarding",
+    "date": "2026-03",
+    "count": 52,
+    "dir": "headway-2026-03-27",
+    "thumbnail": "screenshots/headway-2026-03-27/01-landing.png",
+    "hasAnalysis": true
   }
 ]
