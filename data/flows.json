@@ -1,0 +1,92 @@
+[
+  {
+    "id": "liven-2026-04-08",
+    "competitor": "Liven",
+    "label": "Liven Neuro Onboarding (Apr 2026)",
+    "date": "2026-04-08",
+    "count": 53,
+    "dir": "liven-2026-04-08",
+    "thumbnail": "screenshots/liven-2026-04-08/05-q01.png",
+    "hasAnalysis": true
+  },
+  {
+    "id": "liven-2026-03-20",
+    "competitor": "Liven",
+    "label": "Liven Onboarding",
+    "date": "2026-03-20",
+    "count": 69,
+    "dir": "liven-2026-03-20",
+    "thumbnail": "screenshots/liven-2026-03-20/01-homepage.png",
+    "hasAnalysis": true
+  },
+  {
+    "id": "liven-2026-03-20-6",
+    "competitor": "Liven",
+    "label": "Liven Onboarding (Run 2)",
+    "date": "2026-03-20",
+    "count": 72,
+    "dir": "liven-2026-03-20-6",
+    "thumbnail": "screenshots/liven-2026-03-20-6/01-homepage.png",
+    "hasAnalysis": false
+  },
+  {
+    "id": "noom-2026-03-24-9",
+    "competitor": "Noom",
+    "label": "Noom Weight Onboarding",
+    "date": "2026-03-24",
+    "count": 109,
+    "dir": "noom-2026-03-24-9",
+    "thumbnail": "screenshots/noom-2026-03-24-9/01-homepage.png",
+    "hasAnalysis": true
+  },
+  {
+    "id": "simple-2026-03-25-11",
+    "competitor": "Simple",
+    "label": "Simple.life — Intermittent Fasting",
+    "date": "2026-03-25",
+    "count": 69,
+    "dir": "simple-2026-03-25-11",
+    "thumbnail": "screenshots/simple-2026-03-25-11/01-q01.png",
+    "hasAnalysis": true
+  },
+  {
+    "id": "simple-2026-03-25-2",
+    "competitor": "Simple",
+    "label": "Simple.life — Intermittent Fasting (Male)",
+    "date": "2026-03-25",
+    "count": 59,
+    "dir": "simple-2026-03-25-2",
+    "thumbnail": "screenshots/simple-2026-03-25-2/01-q01.png",
+    "hasAnalysis": true
+  },
+  {
+    "id": "imprint-2026-03-26-8",
+    "competitor": "Imprint",
+    "label": "Imprint Buddhism Onboarding",
+    "date": "2026-03-26",
+    "count": 53,
+    "dir": "imprint-2026-03-26-8",
+    "thumbnail": "screenshots/imprint-2026-03-26-8/01-q01.png",
+    "hasAnalysis": true
+  },
+  {
+    "id": "imprint-2026-03-26",
+    "competitor": "imprint",
+    "label": "Philosophy (organic, 2026-03-26)",
+    "date": "2026-03",
+    "count": 39,
+    "dir": "imprint-2026-03-26",
+    "thumbnail": "screenshots/imprint-2026-03-26/01-q01.png",
+    "hasAnalysis": true
+  },
+  {
+    "id": "headway-2026-03-27",
+    "competitor": "Headway",
+    "label": "Headway Self-Growth Onboarding",
+    "date": "2026-03",
+    "count": 52,
+    "dir": "headway-2026-03-27",
+    "thumbnail": "screenshots/headway-2026-03-27/01-landing.png",
+    "hasAnalysis": true
+  }
+]
